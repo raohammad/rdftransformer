@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="fukhtakhin"/>
+    <HelloWorld msg="Semantic Data Transformer"/>
   </div>
 </template>
 
